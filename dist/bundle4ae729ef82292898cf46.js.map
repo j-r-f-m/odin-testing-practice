@@ -1,1 +1,0 @@
-{"version":3,"file":"bundle4ae729ef82292898cf46.js","mappings":";;;;;AAAA","sources":["webpack://odin-testing-practice/./src/index.js"],"sourcesContent":["const capitalize = (string) => {};\r\n"],"names":[],"sourceRoot":""}
