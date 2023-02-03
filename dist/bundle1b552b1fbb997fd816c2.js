@@ -42,10 +42,21 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "capitalize": () => (/* binding */ capitalize),
 /* harmony export */   "reverseString": () => (/* binding */ reverseString)
 /* harmony export */ });
+//import { ceasarCipher } from "./caesarCipher";
+/**
+ * capitallize first letter of passed string
+ * @param {string} string
+ * @returns capitalized passed string
+ */
 const capitalize = (string) => {
   return string.replace(string[0], string[0].toUpperCase());
 };
 
+/**
+ * reverse String
+ * @param {string} string
+ * @returns reversed string
+ */
 const reverseString = (string) => {
   return string.split("").reverse().join("");
 };
@@ -54,4 +65,4 @@ const reverseString = (string) => {
 
 /******/ })()
 ;
-//# sourceMappingURL=bundlede2a85edb110cd9fd9e0.js.map
+//# sourceMappingURL=bundle1b552b1fbb997fd816c2.js.map
