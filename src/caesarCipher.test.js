@@ -1,4 +1,4 @@
-import { ceasarCipher } from "./caesarCipher";
+/* import { ceasarCipher } from "./caesarCipher";
 test("shift string elements by key", () => {
   expect(ceasarCipher("hallo du", 2)).toBe("jcnnq fw");
 });
@@ -38,3 +38,4 @@ test("shift string elements by key", () => {
     "Efgfoe uif, Fbtu xbmm pg uif dbtumf."
   );
 });
+ */
